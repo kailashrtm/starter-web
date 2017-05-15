@@ -1,7 +1,7 @@
-#Starter Web Project
+# Starter Web Project
 
-## Intor
+## Intro
 
-### Purpose
+### Purpose of project
 
 #### How to contribute
