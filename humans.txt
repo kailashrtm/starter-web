@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kailash Kumawat	kailash.kumawat@wipro.com
 
 # THANKS
 
