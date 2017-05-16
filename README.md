@@ -8,8 +8,9 @@ Sample website with plenty of files for demos
 ### Copyright
 
 Copyright 2017 Added
-
+All rights reserved
 
 #### How to contribute
 
 Please fork
+
